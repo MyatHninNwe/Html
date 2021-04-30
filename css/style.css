@@ -1,0 +1,40 @@
+.container_fluid{
+	background-image: url(../image/tt.png);
+}
+
+
+
+
+.pone{
+	background-color: tomato; 
+}
+
+	
+ .one{
+
+	 width:350px;
+	 height:320;
+	color:white;
+	background-image:url("../image/tt.png");
+	background-attachment: 50;
+	background-repeat: repeat-x;
+	background-position: top bottom;
+	background-position: 0,100%;
+}
+
+.two{
+
+	background-color:gray; 
+}
+
+.opo{
+	text-align: center;
+	text-indent: 10px;
+	color: green;
+	background-color: gray;
+}
+
+MI{
+	text-align: right; 
+	color: red;
+}
